@@ -59,3 +59,4 @@ Enter Principal Amount: 1000
 Enter Interest Rate: 5
 Enter Time (in years): 3
 The Simple Interest is: 150.0
+this is a some changes to commit 
